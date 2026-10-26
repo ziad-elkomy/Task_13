@@ -13,8 +13,26 @@
 								<small>Status: </small>
 								<select class="form-select form-select-sm" aria-label="Bulk actions" name="Status">
 									<option value="null"></option>
-									<option value="true">Available</option>
-									<option value="false">UnAvailable</option>
+									@if (Model.filter.Status != null)
+									{
+										@if (Model.filter.Status == true)
+										{
+											<option value="true" selected>Available</option>
+											<option value="false">UnAvailable</option>
+										}
+										else
+										{
+											<option value="true">Available</option>
+											<option value="false" selected>UnAvailable</option>
+										}
+									}
+									else
+									{
+										<option value="true">Available</option>
+										<option value="false">UnAvailable</option>
+									}
+
+
 								</select>
 							</div>
 
@@ -24,7 +42,14 @@
 									<option value=""></option>
 									@foreach (var item in Model.Cinemas)
 									{
-										<option value="@item.Id">@item.Name</option>
+										if (item.Id == Model.filter.CinemaId)
+										{
+											<option value="@item.Id" selected>@item.Name</option>
+										}
+										else
+										{
+											<option value="@item.Id">@item.Name</option>
+										}
 									}
 								</select>
 							</div>
@@ -34,22 +59,32 @@
 									<option value=""></option>
 									@foreach (var item in Model.Categories)
 									{
-										<option value="@item.Id">@item.Name</option>
+										if (item.Id == Model.filter.CategoryId)
+										{
+											<option value="@item.Id" selected>@item.Name</option>
+										}
+										else
+										{
+											<option value="@item.Id">@item.Name</option>
+										}
+
 									}
 								</select>
 							</div>
 							<div class="col-auto">
 								<small>Before DateTime: </small>
-								<input type="datetime-local" class="form-control form-control-sm" name="DT" />
+								<input type="datetime-local" class="form-control form-control-sm" name="DT" value="@Model.filter.DT.ToString("yyyy-MM-ddTHH:mm")" />
 							</div>
 							<div class="col-auto">
 								<small>Max Price: </small>
-								<input type="number" class="form-control form-control-sm" name="Price" />
+								<input type="number" class="form-control form-control-sm" name="Price" value="@Model.filter.Price"/>
 							</div>
 							<div class="col-auto">
 								<button class="btn btn-primary btn-sm my-4" type="submit">Filter</button>
 							</div>
-							
+							<div class="col-auto">
+								<a class="btn btn-primary btn-sm my-4" href="/Admin/Movie/Index">Reset to default</a>
+							</div>
 						</form>
 					</div>
 				</div>

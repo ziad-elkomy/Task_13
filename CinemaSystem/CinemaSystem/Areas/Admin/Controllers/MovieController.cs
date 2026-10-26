@@ -39,7 +39,8 @@ namespace CinemaSystem.Areas.Admin.Controllers
             {
                 Movies = movies.ToList(),
                 Categories = _context.Categories.ToList(),
-                Cinemas = _context.Cinemas.ToList()
+                Cinemas = _context.Cinemas.ToList(),
+                filter = filtermovie
             });
         }
         [HttpGet]
