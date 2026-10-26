@@ -1,1 +1,5 @@
-D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\Img\Admin\Movie\6287d695-19d3-4cfc-8c6f-81a69e0a0942-Movie 1.jpg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\Img\Admin\Actor\d9a82f42-ac99-402c-b9ec-8930a0ec46d0-Actor 7.jpg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\Img\Admin\Movie\05213b98-5cb7-4248-a176-9683f9212f2b-Movie 1.jpg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\Img\Admin\Movie\9d0a735a-4035-46f2-9356-e572604bf2c4-SubImage 1 2.jpg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\Img\Admin\Movie\bb752d20-6a3c-4d86-9501-3b43fe3db4a4-SubImage 1 1.jpg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\Img\Admin\Movie\bbaf6aea-3ca8-45d6-9632-244d31a37a27-Movie 3.jpg

@@ -477,18 +477,14 @@ wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\Img\Admin\Actor\1a3ded8c-b693-4db9-a12e-35fb23bf3e2c-Actor 2.jpg
 wwwroot\Img\Admin\Actor\9570c5cf-3855-4173-8d7d-568d8e4fe664-Actor 9.jpg
+wwwroot\Img\Admin\Actor\9f752540-eb44-46bf-83db-56a16077d051-Actor 5.jpg
 wwwroot\Img\Admin\Actor\b2091aa0-1e7a-4900-b710-6562445bbe68-Actor 4.jpg
-wwwroot\Img\Admin\Actor\d9a82f42-ac99-402c-b9ec-8930a0ec46d0-Actor 7.jpg
 wwwroot\Img\Admin\Cinema\72d35114-065e-41af-a46b-540bfe6d44da-Cinema 3.jpg
 wwwroot\Img\Admin\Cinema\b49867d4-4772-4c79-8289-35b998754091-Cinema 2.jpg
-wwwroot\Img\Admin\Movie\05213b98-5cb7-4248-a176-9683f9212f2b-Movie 1.jpg
 wwwroot\Img\Admin\Movie\2e325000-5741-4daa-94d1-a0bc994ae3d2-Movie 3.jpg
 wwwroot\Img\Admin\Movie\4f5534e1-1116-482f-88ea-fca65e16bca8-SubImage 1 2.jpg
 wwwroot\Img\Admin\Movie\7c91dfeb-52cc-4aad-ae84-447040e5b0f8-SubImage 3 1.jpg
 wwwroot\Img\Admin\Movie\89035e27-8c28-4890-96b7-78cfa7440417-Movie 2.jpg
-wwwroot\Img\Admin\Movie\9d0a735a-4035-46f2-9356-e572604bf2c4-SubImage 1 2.jpg
-wwwroot\Img\Admin\Movie\bb752d20-6a3c-4d86-9501-3b43fe3db4a4-SubImage 1 1.jpg
-wwwroot\Img\Admin\Movie\bbaf6aea-3ca8-45d6-9632-244d31a37a27-Movie 3.jpg
 wwwroot\Img\Admin\Movie\c11d4456-29cd-4406-8092-c7f007b137e8-SubImage 1 1.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
