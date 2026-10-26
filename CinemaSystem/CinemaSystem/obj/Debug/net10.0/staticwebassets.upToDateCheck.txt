@@ -1,0 +1,1312 @@
+wwwroot\assets\css\theme-rtl.css
+wwwroot\assets\css\theme-rtl.css.map
+wwwroot\assets\css\theme-rtl.min.css
+wwwroot\assets\css\theme-rtl.min.css.map
+wwwroot\assets\css\theme.css
+wwwroot\assets\css\theme.css.map
+wwwroot\assets\css\theme.min.css
+wwwroot\assets\css\theme.min.css.map
+wwwroot\assets\css\user-rtl.css
+wwwroot\assets\css\user-rtl.css.map
+wwwroot\assets\css\user-rtl.min.css
+wwwroot\assets\css\user-rtl.min.css.map
+wwwroot\assets\css\user.css
+wwwroot\assets\css\user.css.map
+wwwroot\assets\css\user.min.css
+wwwroot\assets\css\user.min.css.map
+wwwroot\assets\data\usa.js
+wwwroot\assets\data\world.js
+wwwroot\assets\img\animated-icons\bm.json
+wwwroot\assets\img\animated-icons\bouncing-ball.json
+wwwroot\assets\img\animated-icons\celebration.json
+wwwroot\assets\img\animated-icons\check-primary-light.json
+wwwroot\assets\img\animated-icons\heart.json
+wwwroot\assets\img\animated-icons\infinite-loop.json
+wwwroot\assets\img\animated-icons\loading-animation.json
+wwwroot\assets\img\animated-icons\loading-balls.json
+wwwroot\assets\img\animated-icons\loading-circle-scale.json
+wwwroot\assets\img\animated-icons\loading-square.json
+wwwroot\assets\img\animated-icons\loading.json
+wwwroot\assets\img\animated-icons\shopping-list.json
+wwwroot\assets\img\animated-icons\sleeping-404.json
+wwwroot\assets\img\animated-icons\ss.json
+wwwroot\assets\img\animated-icons\star-feedback.json
+wwwroot\assets\img\animated-icons\warning-light.json
+wwwroot\assets\img\chat\1.jpg
+wwwroot\assets\img\chat\10.jpg
+wwwroot\assets\img\chat\11.jpg
+wwwroot\assets\img\chat\12.jpg
+wwwroot\assets\img\chat\2.jpg
+wwwroot\assets\img\chat\3.jpg
+wwwroot\assets\img\chat\4.jpg
+wwwroot\assets\img\chat\5.jpg
+wwwroot\assets\img\chat\6.jpg
+wwwroot\assets\img\chat\7.jpg
+wwwroot\assets\img\chat\8.jpg
+wwwroot\assets\img\chat\9.jpg
+wwwroot\assets\img\crm\call.svg
+wwwroot\assets\img\crm\email.svg
+wwwroot\assets\img\crm\india.png
+wwwroot\assets\img\crm\nepal.png
+wwwroot\assets\img\crm\other.svg
+wwwroot\assets\img\crm\social.svg
+wwwroot\assets\img\crm\thailand.png
+wwwroot\assets\img\crm\uae.png
+wwwroot\assets\img\doc\bulk-select.png
+wwwroot\assets\img\doc\error.png
+wwwroot\assets\img\ecommerce\1.jpg
+wwwroot\assets\img\ecommerce\2.jpg
+wwwroot\assets\img\ecommerce\3.jpg
+wwwroot\assets\img\ecommerce\4.jpg
+wwwroot\assets\img\ecommerce\5.jpg
+wwwroot\assets\img\ecommerce\6.jpg
+wwwroot\assets\img\ecommerce\7.jpg
+wwwroot\assets\img\elearning\avatar\student.png
+wwwroot\assets\img\elearning\avatar\trainer.png
+wwwroot\assets\img\elearning\courses\course-details.png
+wwwroot\assets\img\elearning\courses\course1.png
+wwwroot\assets\img\elearning\courses\course2.png
+wwwroot\assets\img\elearning\courses\course3.png
+wwwroot\assets\img\elearning\courses\course4.png
+wwwroot\assets\img\elearning\courses\course5.png
+wwwroot\assets\img\elearning\courses\course6.png
+wwwroot\assets\img\elearning\courses\course7.png
+wwwroot\assets\img\elearning\courses\course8.png
+wwwroot\assets\img\elearning\courses\course9.png
+wwwroot\assets\img\elearning\lessons\chapter1.png
+wwwroot\assets\img\elearning\lessons\chapter2.png
+wwwroot\assets\img\elearning\lessons\chapter3.png
+wwwroot\assets\img\elearning\lessons\chapter4.png
+wwwroot\assets\img\elearning\lessons\intro.png
+wwwroot\assets\img\favicons\android-chrome-192x192.png
+wwwroot\assets\img\favicons\android-chrome-512x512.png
+wwwroot\assets\img\favicons\apple-touch-icon.png
+wwwroot\assets\img\favicons\browserconfig.xml
+wwwroot\assets\img\favicons\favicon-16x16.png
+wwwroot\assets\img\favicons\favicon-32x32.png
+wwwroot\assets\img\favicons\favicon.ico
+wwwroot\assets\img\favicons\manifest.json
+wwwroot\assets\img\favicons\mstile-150x150.png
+wwwroot\assets\img\favicons\site.webmanifest
+wwwroot\assets\img\gallery\1.jpg
+wwwroot\assets\img\gallery\2.jpg
+wwwroot\assets\img\gallery\2000.jpg
+wwwroot\assets\img\gallery\2001.jpg
+wwwroot\assets\img\gallery\2006.jpg
+wwwroot\assets\img\gallery\2007.jpg
+wwwroot\assets\img\gallery\2008.jpg
+wwwroot\assets\img\gallery\2010.jpg
+wwwroot\assets\img\gallery\3.jpg
+wwwroot\assets\img\gallery\4.jpg
+wwwroot\assets\img\gallery\5.jpg
+wwwroot\assets\img\generic\1.jpg
+wwwroot\assets\img\generic\10.jpg
+wwwroot\assets\img\generic\11.jpg
+wwwroot\assets\img\generic\12.jpg
+wwwroot\assets\img\generic\13.jpg
+wwwroot\assets\img\generic\14.jpg
+wwwroot\assets\img\generic\15.jpg
+wwwroot\assets\img\generic\16.jpg
+wwwroot\assets\img\generic\17.jpg
+wwwroot\assets\img\generic\18.jpg
+wwwroot\assets\img\generic\19.jpg
+wwwroot\assets\img\generic\2.jpg
+wwwroot\assets\img\generic\20.jpg
+wwwroot\assets\img\generic\3.jpg
+wwwroot\assets\img\generic\4.jpg
+wwwroot\assets\img\generic\5.jpg
+wwwroot\assets\img\generic\6.jpg
+wwwroot\assets\img\generic\7.jpg
+wwwroot\assets\img\generic\8.jpg
+wwwroot\assets\img\generic\9.jpg
+wwwroot\assets\img\generic\bg-1.jpg
+wwwroot\assets\img\generic\bg-2.jpg
+wwwroot\assets\img\generic\bg-navbar.png
+wwwroot\assets\img\generic\card.png
+wwwroot\assets\img\generic\dashboard-alt-dark.png
+wwwroot\assets\img\generic\dashboard-alt.jpg
+wwwroot\assets\img\generic\dashboard-alt.png
+wwwroot\assets\img\generic\dashboard-old.png
+wwwroot\assets\img\generic\default.png
+wwwroot\assets\img\generic\falcon-mode-auto.jpg
+wwwroot\assets\img\generic\falcon-mode-dark.jpg
+wwwroot\assets\img\generic\falcon-mode-default.jpg
+wwwroot\assets\img\generic\Frame-14.png
+wwwroot\assets\img\generic\html-falcon.png
+wwwroot\assets\img\generic\image-file-2.png
+wwwroot\assets\img\generic\inverted.png
+wwwroot\assets\img\generic\showcase-footer-bg.png
+wwwroot\assets\img\generic\vibrant.png
+wwwroot\assets\img\icons\arrows-h.svg
+wwwroot\assets\img\icons\calendar.png
+wwwroot\assets\img\icons\chevron-up.svg
+wwwroot\assets\img\icons\chip.png
+wwwroot\assets\img\icons\chrome-logo.png
+wwwroot\assets\img\icons\cloud-download-.svg
+wwwroot\assets\img\icons\cloud-download.svg
+wwwroot\assets\img\icons\cloud-upload.svg
+wwwroot\assets\img\icons\connect-circle.png
+wwwroot\assets\img\icons\cookie-1.png
+wwwroot\assets\img\icons\cookie.png
+wwwroot\assets\img\icons\discount.svg
+wwwroot\assets\img\icons\docs.png
+wwwroot\assets\img\icons\double-chevron-up.svg
+wwwroot\assets\img\icons\edit-alt-.svg
+wwwroot\assets\img\icons\edit-alt.svg
+wwwroot\assets\img\icons\firefox-logo.png
+wwwroot\assets\img\icons\folder-open-solid.svg
+wwwroot\assets\img\icons\folder-solid.svg
+wwwroot\assets\img\icons\free.svg
+wwwroot\assets\img\icons\icon-angle-right.svg
+wwwroot\assets\img\icons\icon-payment-methods-grid.png
+wwwroot\assets\img\icons\icon-payment-methods.png
+wwwroot\assets\img\icons\icon-paypal-full.png
+wwwroot\assets\img\icons\image.png
+wwwroot\assets\img\icons\leaflet\layers-2x.png
+wwwroot\assets\img\icons\leaflet\layers.png
+wwwroot\assets\img\icons\leaflet\marker-icon-2x.png
+wwwroot\assets\img\icons\leaflet\marker-icon.png
+wwwroot\assets\img\icons\leaflet\marker-shadow.png
+wwwroot\assets\img\icons\left-arrow-from-left.svg
+wwwroot\assets\img\icons\location.png
+wwwroot\assets\img\icons\map-marker.png
+wwwroot\assets\img\icons\master-card.png
+wwwroot\assets\img\icons\moon.svg
+wwwroot\assets\img\icons\networking.svg
+wwwroot\assets\img\icons\nineDots.svg
+wwwroot\assets\img\icons\paragraph.svg
+wwwroot\assets\img\icons\play.svg
+wwwroot\assets\img\icons\pro.svg
+wwwroot\assets\img\icons\radarRect.png
+wwwroot\assets\img\icons\safari-logo.png
+wwwroot\assets\img\icons\sent.svg
+wwwroot\assets\img\icons\shield.png
+wwwroot\assets\img\icons\shield.svg
+wwwroot\assets\img\icons\signal.png
+wwwroot\assets\img\icons\spot-illustrations\1.svg
+wwwroot\assets\img\icons\spot-illustrations\16.png
+wwwroot\assets\img\icons\spot-illustrations\2.svg
+wwwroot\assets\img\icons\spot-illustrations\21.png
+wwwroot\assets\img\icons\spot-illustrations\3.svg
+wwwroot\assets\img\icons\spot-illustrations\4.png
+wwwroot\assets\img\icons\spot-illustrations\4.svg
+wwwroot\assets\img\icons\spot-illustrations\41.png
+wwwroot\assets\img\icons\spot-illustrations\45.png
+wwwroot\assets\img\icons\spot-illustrations\47.png
+wwwroot\assets\img\icons\spot-illustrations\48.png
+wwwroot\assets\img\icons\spot-illustrations\49.png
+wwwroot\assets\img\icons\spot-illustrations\5.png
+wwwroot\assets\img\icons\spot-illustrations\5.svg
+wwwroot\assets\img\icons\spot-illustrations\50.png
+wwwroot\assets\img\icons\spot-illustrations\6.png
+wwwroot\assets\img\icons\spot-illustrations\6.svg
+wwwroot\assets\img\icons\spot-illustrations\authentication-corner.png
+wwwroot\assets\img\icons\spot-illustrations\bg-shape.png
+wwwroot\assets\img\icons\spot-illustrations\calendar.svg
+wwwroot\assets\img\icons\spot-illustrations\comment-active.png
+wwwroot\assets\img\icons\spot-illustrations\comment-inactive.png
+wwwroot\assets\img\icons\spot-illustrations\corner-1.png
+wwwroot\assets\img\icons\spot-illustrations\corner-2.png
+wwwroot\assets\img\icons\spot-illustrations\corner-3.png
+wwwroot\assets\img\icons\spot-illustrations\corner-4.png
+wwwroot\assets\img\icons\spot-illustrations\corner-5.png
+wwwroot\assets\img\icons\spot-illustrations\corner-6.png
+wwwroot\assets\img\icons\spot-illustrations\corner-7.png
+wwwroot\assets\img\icons\spot-illustrations\course-details-bg.png
+wwwroot\assets\img\icons\spot-illustrations\creating.png
+wwwroot\assets\img\icons\spot-illustrations\ecommerce-bg.png
+wwwroot\assets\img\icons\spot-illustrations\editing.svg
+wwwroot\assets\img\icons\spot-illustrations\envelope.png
+wwwroot\assets\img\icons\spot-illustrations\falcon.png
+wwwroot\assets\img\icons\spot-illustrations\gifts.png
+wwwroot\assets\img\icons\spot-illustrations\half-circle-1.png
+wwwroot\assets\img\icons\spot-illustrations\half-circle.png
+wwwroot\assets\img\icons\spot-illustrations\image.svg
+wwwroot\assets\img\icons\spot-illustrations\international-women-s-day-2.png
+wwwroot\assets\img\icons\spot-illustrations\international-women-s-day.jpg
+wwwroot\assets\img\icons\spot-illustrations\like-active.png
+wwwroot\assets\img\icons\spot-illustrations\like-inactive.png
+wwwroot\assets\img\icons\spot-illustrations\location.svg
+wwwroot\assets\img\icons\spot-illustrations\navbar-vertical.png
+wwwroot\assets\img\icons\spot-illustrations\paper-plane.svg
+wwwroot\assets\img\icons\spot-illustrations\rocket.png
+wwwroot\assets\img\icons\spot-illustrations\settings.png
+wwwroot\assets\img\icons\spot-illustrations\shape-1.png
+wwwroot\assets\img\icons\spot-illustrations\share-active.png
+wwwroot\assets\img\icons\spot-illustrations\share-inactive.png
+wwwroot\assets\img\icons\spot-illustrations\startup.svg
+wwwroot\assets\img\icons\star_on.svg
+wwwroot\assets\img\icons\sun.svg
+wwwroot\assets\img\icons\target.svg
+wwwroot\assets\img\icons\triple-chevron-up.svg
+wwwroot\assets\img\icons\user-plus.svg
+wwwroot\assets\img\icons\users.svg
+wwwroot\assets\img\icons\visa.png
+wwwroot\assets\img\icons\weather-icon.png
+wwwroot\assets\img\icons\weather-sm.jpg
+wwwroot\assets\img\icons\weather.jpg
+wwwroot\assets\img\icons\zip.png
+wwwroot\assets\img\illustrations\1.svg
+wwwroot\assets\img\illustrations\2.svg
+wwwroot\assets\img\illustrations\3.svg
+wwwroot\assets\img\illustrations\4.png
+wwwroot\assets\img\illustrations\4.svg
+wwwroot\assets\img\illustrations\5.png
+wwwroot\assets\img\illustrations\5.svg
+wwwroot\assets\img\illustrations\6.png
+wwwroot\assets\img\illustrations\6.svg
+wwwroot\assets\img\illustrations\authentication-corner.png
+wwwroot\assets\img\illustrations\bg-shape.png
+wwwroot\assets\img\illustrations\bg-wave.png
+wwwroot\assets\img\illustrations\calendar.svg
+wwwroot\assets\img\illustrations\comment-active.png
+wwwroot\assets\img\illustrations\comment-inactive.png
+wwwroot\assets\img\illustrations\corner-1.png
+wwwroot\assets\img\illustrations\corner-2.png
+wwwroot\assets\img\illustrations\corner-3.png
+wwwroot\assets\img\illustrations\corner-4.png
+wwwroot\assets\img\illustrations\corner-5.png
+wwwroot\assets\img\illustrations\corner-6.png
+wwwroot\assets\img\illustrations\creating.png
+wwwroot\assets\img\illustrations\crm-bar-chart.png
+wwwroot\assets\img\illustrations\crm-line-chart.png
+wwwroot\assets\img\illustrations\ecommerce-bg.png
+wwwroot\assets\img\illustrations\editing.svg
+wwwroot\assets\img\illustrations\envelope.png
+wwwroot\assets\img\illustrations\falcon.png
+wwwroot\assets\img\illustrations\gifts.png
+wwwroot\assets\img\illustrations\half-circle-1.png
+wwwroot\assets\img\illustrations\half-circle.png
+wwwroot\assets\img\illustrations\image.svg
+wwwroot\assets\img\illustrations\international-women-s-day-2.png
+wwwroot\assets\img\illustrations\international-women-s-day.jpg
+wwwroot\assets\img\illustrations\like-active.png
+wwwroot\assets\img\illustrations\like-inactive.png
+wwwroot\assets\img\illustrations\location.svg
+wwwroot\assets\img\illustrations\navbar-vertical.png
+wwwroot\assets\img\illustrations\paper-plane.svg
+wwwroot\assets\img\illustrations\reports-bg.png
+wwwroot\assets\img\illustrations\reports-greeting.png
+wwwroot\assets\img\illustrations\rocket.png
+wwwroot\assets\img\illustrations\settings.png
+wwwroot\assets\img\illustrations\shape-1.png
+wwwroot\assets\img\illustrations\share-active.png
+wwwroot\assets\img\illustrations\share-inactive.png
+wwwroot\assets\img\illustrations\startup.svg
+wwwroot\assets\img\illustrations\ticket-bg.png
+wwwroot\assets\img\illustrations\ticket-welcome.png
+wwwroot\assets\img\kanban\1.jpg
+wwwroot\assets\img\kanban\2.jpg
+wwwroot\assets\img\kanban\3.jpg
+wwwroot\assets\img\kanban\4.jpg
+wwwroot\assets\img\logo.png
+wwwroot\assets\img\logos\adidas.png
+wwwroot\assets\img\logos\adobe-creative-cloud.png
+wwwroot\assets\img\logos\amazon.png
+wwwroot\assets\img\logos\apple.png
+wwwroot\assets\img\logos\asana-logo.png
+wwwroot\assets\img\logos\atlassian.png
+wwwroot\assets\img\logos\b&w\1.png
+wwwroot\assets\img\logos\b&w\10.png
+wwwroot\assets\img\logos\b&w\11.png
+wwwroot\assets\img\logos\b&w\12.png
+wwwroot\assets\img\logos\b&w\2.png
+wwwroot\assets\img\logos\b&w\3.png
+wwwroot\assets\img\logos\b&w\4.png
+wwwroot\assets\img\logos\b&w\5.png
+wwwroot\assets\img\logos\b&w\6.png
+wwwroot\assets\img\logos\b&w\7.png
+wwwroot\assets\img\logos\b&w\8.png
+wwwroot\assets\img\logos\b&w\9.png
+wwwroot\assets\img\logos\bs-5.png
+wwwroot\assets\img\logos\bs-logo.png
+wwwroot\assets\img\logos\cocacola.png
+wwwroot\assets\img\logos\coursera.png
+wwwroot\assets\img\logos\digitalocean.png
+wwwroot\assets\img\logos\echart.png
+wwwroot\assets\img\logos\facebook.png
+wwwroot\assets\img\logos\g.png
+wwwroot\assets\img\logos\github.png
+wwwroot\assets\img\logos\gmail.png
+wwwroot\assets\img\logos\goodreads.png
+wwwroot\assets\img\logos\google.png
+wwwroot\assets\img\logos\harvard.png
+wwwroot\assets\img\logos\hp.png
+wwwroot\assets\img\logos\hubstaff.png
+wwwroot\assets\img\logos\intel-2.png
+wwwroot\assets\img\logos\intel.png
+wwwroot\assets\img\logos\js.png
+wwwroot\assets\img\logos\logo-invoice-.png
+wwwroot\assets\img\logos\logo-invoice.png
+wwwroot\assets\img\logos\mailbluster.png
+wwwroot\assets\img\logos\medium.png
+wwwroot\assets\img\logos\netflix.png
+wwwroot\assets\img\logos\nike.png
+wwwroot\assets\img\logos\nvidia.png
+wwwroot\assets\img\logos\oxford.png
+wwwroot\assets\img\logos\paypal.png
+wwwroot\assets\img\logos\pinterest.png
+wwwroot\assets\img\logos\pug.png
+wwwroot\assets\img\logos\samsung.png
+wwwroot\assets\img\logos\spectrum.jpg
+wwwroot\assets\img\logos\spotify.png
+wwwroot\assets\img\logos\stanford.png
+wwwroot\assets\img\logos\staten.png
+wwwroot\assets\img\logos\stripe.png
+wwwroot\assets\img\logos\techcrunch.png
+wwwroot\assets\img\logos\technext.png
+wwwroot\assets\img\logos\themewagon-main.png
+wwwroot\assets\img\logos\themewagon.png
+wwwroot\assets\img\logos\tj-heigh-school.png
+wwwroot\assets\img\logos\twitter.png
+wwwroot\assets\img\logos\unsplash.png
+wwwroot\assets\img\logos\youtube.png
+wwwroot\assets\img\management\activity-1.png
+wwwroot\assets\img\management\activity-2.png
+wwwroot\assets\img\management\activity-3.png
+wwwroot\assets\img\management\activity-4.png
+wwwroot\assets\img\management\activity-5.png
+wwwroot\assets\img\management\activity-6.png
+wwwroot\assets\img\management\activity-7.png
+wwwroot\assets\img\management\activity-8.png
+wwwroot\assets\img\management\activity-9.png
+wwwroot\assets\img\nav-icons\apple.png
+wwwroot\assets\img\nav-icons\deviantart.png
+wwwroot\assets\img\nav-icons\discord.png
+wwwroot\assets\img\nav-icons\facebook.png
+wwwroot\assets\img\nav-icons\github-light.png
+wwwroot\assets\img\nav-icons\github.png
+wwwroot\assets\img\nav-icons\google.png
+wwwroot\assets\img\nav-icons\hp.png
+wwwroot\assets\img\nav-icons\instagram.png
+wwwroot\assets\img\nav-icons\linkedin.png
+wwwroot\assets\img\nav-icons\mailbluster.png
+wwwroot\assets\img\nav-icons\pinterest.png
+wwwroot\assets\img\nav-icons\slack.png
+wwwroot\assets\img\nav-icons\spotify.png
+wwwroot\assets\img\nav-icons\steam.png
+wwwroot\assets\img\nav-icons\themewagon.png
+wwwroot\assets\img\nav-icons\trello.png
+wwwroot\assets\img\nav-icons\twitter.png
+wwwroot\assets\img\nav-icons\vimeo.png
+wwwroot\assets\img\nav-icons\wwf.png
+wwwroot\assets\img\nav-icons\xbox.png
+wwwroot\assets\img\products\1-2.jpg
+wwwroot\assets\img\products\1-3.jpg
+wwwroot\assets\img\products\1-4.jpg
+wwwroot\assets\img\products\1-5.jpg
+wwwroot\assets\img\products\1-6.jpg
+wwwroot\assets\img\products\1.jpg
+wwwroot\assets\img\products\10.png
+wwwroot\assets\img\products\11.png
+wwwroot\assets\img\products\12.png
+wwwroot\assets\img\products\13.png
+wwwroot\assets\img\products\14.png
+wwwroot\assets\img\products\2-thumb.png
+wwwroot\assets\img\products\2.jpg
+wwwroot\assets\img\products\3-thumb.png
+wwwroot\assets\img\products\3.jpg
+wwwroot\assets\img\products\4.jpg
+wwwroot\assets\img\products\5-thumb.png
+wwwroot\assets\img\products\5.jpg
+wwwroot\assets\img\products\6.jpg
+wwwroot\assets\img\products\7.jpg
+wwwroot\assets\img\products\8.jpg
+wwwroot\assets\img\products\9.jpg
+wwwroot\assets\img\team\1-thumb.png
+wwwroot\assets\img\team\1.jpg
+wwwroot\assets\img\team\10.jpg
+wwwroot\assets\img\team\11.jpg
+wwwroot\assets\img\team\12.jpg
+wwwroot\assets\img\team\13.jpg
+wwwroot\assets\img\team\14-thumb.png
+wwwroot\assets\img\team\14.jpg
+wwwroot\assets\img\team\15.jpg
+wwwroot\assets\img\team\16.jpg
+wwwroot\assets\img\team\17.jpg
+wwwroot\assets\img\team\18.jpg
+wwwroot\assets\img\team\19.jpg
+wwwroot\assets\img\team\2-thumb.png
+wwwroot\assets\img\team\2.jpg
+wwwroot\assets\img\team\20.jpg
+wwwroot\assets\img\team\21.jpg
+wwwroot\assets\img\team\22.jpg
+wwwroot\assets\img\team\23.jpg
+wwwroot\assets\img\team\24.jpg
+wwwroot\assets\img\team\25-thumb.png
+wwwroot\assets\img\team\25.jpg
+wwwroot\assets\img\team\3-thumb.png
+wwwroot\assets\img\team\3.jpg
+wwwroot\assets\img\team\4-thumb.png
+wwwroot\assets\img\team\4.jpg
+wwwroot\assets\img\team\5-thumb.png
+wwwroot\assets\img\team\5.jpg
+wwwroot\assets\img\team\6.jpg
+wwwroot\assets\img\team\7.jpg
+wwwroot\assets\img\team\8.jpg
+wwwroot\assets\img\team\9.jpg
+wwwroot\assets\img\team\avatar.png
+wwwroot\assets\img\team\empty-thumb.png
+wwwroot\assets\img\tickets\due-tickets.png
+wwwroot\assets\img\tickets\hold-tickets.png
+wwwroot\assets\img\tickets\open-tickets.png
+wwwroot\assets\img\tickets\reports\1.png
+wwwroot\assets\img\tickets\reports\2.png
+wwwroot\assets\img\tickets\reports\3.png
+wwwroot\assets\img\tickets\reports\4.png
+wwwroot\assets\img\tickets\reports\5.png
+wwwroot\assets\img\tickets\reports\6.png
+wwwroot\assets\img\tickets\reports\7.png
+wwwroot\assets\img\tickets\unassigned.png
+wwwroot\assets\js\config.js
+wwwroot\assets\js\config.js.map
+wwwroot\assets\js\echart-example.js
+wwwroot\assets\js\echart-example.js.map
+wwwroot\assets\js\echarts-example.js
+wwwroot\assets\js\echarts-example.js.map
+wwwroot\assets\js\flatpickr.js
+wwwroot\assets\js\theme.js
+wwwroot\assets\js\theme.js.map
+wwwroot\assets\js\theme.min.js
+wwwroot\assets\js\theme.min.js.map
+wwwroot\assets\logos\themewagon (1).png
+wwwroot\assets\video\beach.jpg
+wwwroot\assets\video\beach.mp4
+wwwroot\assets\video\beach.webm
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\Img\Admin\Actor\1a3ded8c-b693-4db9-a12e-35fb23bf3e2c-Actor 2.jpg
+wwwroot\Img\Admin\Actor\9570c5cf-3855-4173-8d7d-568d8e4fe664-Actor 9.jpg
+wwwroot\Img\Admin\Actor\b2091aa0-1e7a-4900-b710-6562445bbe68-Actor 4.jpg
+wwwroot\Img\Admin\Actor\d9a82f42-ac99-402c-b9ec-8930a0ec46d0-Actor 7.jpg
+wwwroot\Img\Admin\Cinema\72d35114-065e-41af-a46b-540bfe6d44da-Cinema 3.jpg
+wwwroot\Img\Admin\Cinema\b49867d4-4772-4c79-8289-35b998754091-Cinema 2.jpg
+wwwroot\Img\Admin\Movie\05213b98-5cb7-4248-a176-9683f9212f2b-Movie 1.jpg
+wwwroot\Img\Admin\Movie\2e325000-5741-4daa-94d1-a0bc994ae3d2-Movie 3.jpg
+wwwroot\Img\Admin\Movie\4f5534e1-1116-482f-88ea-fca65e16bca8-SubImage 1 2.jpg
+wwwroot\Img\Admin\Movie\7c91dfeb-52cc-4aad-ae84-447040e5b0f8-SubImage 3 1.jpg
+wwwroot\Img\Admin\Movie\89035e27-8c28-4890-96b7-78cfa7440417-Movie 2.jpg
+wwwroot\Img\Admin\Movie\9d0a735a-4035-46f2-9356-e572604bf2c4-SubImage 1 2.jpg
+wwwroot\Img\Admin\Movie\bb752d20-6a3c-4d86-9501-3b43fe3db4a4-SubImage 1 1.jpg
+wwwroot\Img\Admin\Movie\bbaf6aea-3ca8-45d6-9632-244d31a37a27-Movie 3.jpg
+wwwroot\Img\Admin\Movie\c11d4456-29cd-4406-8092-c7f007b137e8-SubImage 1 1.jpg
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\vendors\anchorjs\anchor.min.js
+wwwroot\vendors\bootstrap\bootstrap.min.js
+wwwroot\vendors\bootstrap\bootstrap.min.js.map
+wwwroot\vendors\chart\chart.umd.js
+wwwroot\vendors\choices\base.min.css
+wwwroot\vendors\choices\choices.min.css
+wwwroot\vendors\choices\choices.min.js
+wwwroot\vendors\countup\countUp.umd.js
+wwwroot\vendors\d3\d3.min.js
+wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.css
+wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.js
+wwwroot\vendors\datatables.net-dt\jquery.dataTables.min.css
+wwwroot\vendors\datatables.net-fixedcolumns\dataTables.fixedColumns.min.js
+wwwroot\vendors\datatables.net\dataTables.min.js
+wwwroot\vendors\dayjs\dayjs.min.js
+wwwroot\vendors\draggable\draggable.bundle.legacy.js
+wwwroot\vendors\dropzone\dropzone-min.js
+wwwroot\vendors\dropzone\dropzone.css
+wwwroot\vendors\echarts-countries-js\map\USA.js
+wwwroot\vendors\echarts-countries-js\map\world.js
+wwwroot\vendors\echarts-countries-js\world\world.js
+wwwroot\vendors\echarts\echarts.min.js
+wwwroot\vendors\emoji-mart\browser.js
+wwwroot\vendors\flatpickr\bn.js
+wwwroot\vendors\flatpickr\flatpickr.min.css
+wwwroot\vendors\flatpickr\flatpickr.min.js
+wwwroot\vendors\fontawesome\all.min.js
+wwwroot\vendors\fullcalendar\index.global.min.js
+wwwroot\vendors\glightbox\glightbox.min.css
+wwwroot\vendors\glightbox\glightbox.min.js
+wwwroot\vendors\imask\imask.min.js
+wwwroot\vendors\inputmask\inputmask.min.js
+wwwroot\vendors\ion-rangeslider\ion.rangeSlider.min.css
+wwwroot\vendors\ion-rangeslider\ion.rangeSlider.min.js
+wwwroot\vendors\is\is.min.js
+wwwroot\vendors\jquery\jquery.min.js
+wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js
+wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js.map
+wwwroot\vendors\leaflet.markercluster\MarkerCluster.css
+wwwroot\vendors\leaflet.markercluster\MarkerCluster.Default.css
+wwwroot\vendors\leaflet.tilelayer.colorfilter\leaflet-tilelayer-colorfilter.min.js
+wwwroot\vendors\leaflet\leaflet.css
+wwwroot\vendors\leaflet\leaflet.js
+wwwroot\vendors\leaflet\leaflet.js.map
+wwwroot\vendors\list.js\list.min.js
+wwwroot\vendors\list.js\list.min.js.map
+wwwroot\vendors\lodash\lodash.min.js
+wwwroot\vendors\lottie\lottie.min.js
+wwwroot\vendors\nouislider\nouislider.min.css
+wwwroot\vendors\nouislider\nouislider.min.js
+wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.css
+wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.js
+wwwroot\vendors\picmo\index.css
+wwwroot\vendors\picmo\index.js
+wwwroot\vendors\plyr\plyr.css
+wwwroot\vendors\plyr\plyr.polyfilled.min.js
+wwwroot\vendors\plyr\plyr.polyfilled.min.js.map
+wwwroot\vendors\popper\popper.min.js
+wwwroot\vendors\popper\popper.min.js.map
+wwwroot\vendors\prism\prism-okaidia.css
+wwwroot\vendors\prism\prism.js
+wwwroot\vendors\rater-js\index.js
+wwwroot\vendors\rater-js\rater-js.js
+wwwroot\vendors\rater-js\star_0.svg
+wwwroot\vendors\rater-js\star_1.svg
+wwwroot\vendors\rater-js\style.css
+wwwroot\vendors\select2-bootstrap-5-theme\select2-bootstrap-5-theme.min.css
+wwwroot\vendors\select2\select2.full.min.js
+wwwroot\vendors\select2\select2.min.css
+wwwroot\vendors\select2\select2.min.js
+wwwroot\vendors\simplebar\simplebar.min.css
+wwwroot\vendors\simplebar\simplebar.min.js
+wwwroot\vendors\sortablejs\Sortable.min.js
+wwwroot\vendors\swiper\swiper-bundle.min.css
+wwwroot\vendors\swiper\swiper-bundle.min.js
+wwwroot\vendors\tiny-slider\tiny-slider.css
+wwwroot\vendors\tiny-slider\tiny-slider.css.map
+wwwroot\vendors\tiny-slider\tiny-slider.js
+wwwroot\vendors\tiny-slider\tiny-slider.scss
+wwwroot\vendors\tinymce\bower.json
+wwwroot\vendors\tinymce\CHANGELOG.md
+wwwroot\vendors\tinymce\composer.json
+wwwroot\vendors\tinymce\icons\default\icons.js
+wwwroot\vendors\tinymce\icons\default\icons.min.js
+wwwroot\vendors\tinymce\icons\default\index.js
+wwwroot\vendors\tinymce\license.md
+wwwroot\vendors\tinymce\models\dom\index.js
+wwwroot\vendors\tinymce\models\dom\model.js
+wwwroot\vendors\tinymce\models\dom\model.min.js
+wwwroot\vendors\tinymce\package.json
+wwwroot\vendors\tinymce\plugins\accordion\index.js
+wwwroot\vendors\tinymce\plugins\accordion\plugin.js
+wwwroot\vendors\tinymce\plugins\accordion\plugin.min.js
+wwwroot\vendors\tinymce\plugins\advlist\index.js
+wwwroot\vendors\tinymce\plugins\advlist\plugin.js
+wwwroot\vendors\tinymce\plugins\advlist\plugin.min.js
+wwwroot\vendors\tinymce\plugins\anchor\index.js
+wwwroot\vendors\tinymce\plugins\anchor\plugin.js
+wwwroot\vendors\tinymce\plugins\anchor\plugin.min.js
+wwwroot\vendors\tinymce\plugins\autolink\index.js
+wwwroot\vendors\tinymce\plugins\autolink\plugin.js
+wwwroot\vendors\tinymce\plugins\autolink\plugin.min.js
+wwwroot\vendors\tinymce\plugins\autoresize\index.js
+wwwroot\vendors\tinymce\plugins\autoresize\plugin.js
+wwwroot\vendors\tinymce\plugins\autoresize\plugin.min.js
+wwwroot\vendors\tinymce\plugins\autosave\index.js
+wwwroot\vendors\tinymce\plugins\autosave\plugin.js
+wwwroot\vendors\tinymce\plugins\autosave\plugin.min.js
+wwwroot\vendors\tinymce\plugins\charmap\index.js
+wwwroot\vendors\tinymce\plugins\charmap\plugin.js
+wwwroot\vendors\tinymce\plugins\charmap\plugin.min.js
+wwwroot\vendors\tinymce\plugins\codesample\index.js
+wwwroot\vendors\tinymce\plugins\codesample\plugin.js
+wwwroot\vendors\tinymce\plugins\codesample\plugin.min.js
+wwwroot\vendors\tinymce\plugins\code\index.js
+wwwroot\vendors\tinymce\plugins\code\plugin.js
+wwwroot\vendors\tinymce\plugins\code\plugin.min.js
+wwwroot\vendors\tinymce\plugins\directionality\index.js
+wwwroot\vendors\tinymce\plugins\directionality\plugin.js
+wwwroot\vendors\tinymce\plugins\directionality\plugin.min.js
+wwwroot\vendors\tinymce\plugins\emoticons\index.js
+wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.js
+wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.min.js
+wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.js
+wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.min.js
+wwwroot\vendors\tinymce\plugins\emoticons\plugin.js
+wwwroot\vendors\tinymce\plugins\emoticons\plugin.min.js
+wwwroot\vendors\tinymce\plugins\fullscreen\index.js
+wwwroot\vendors\tinymce\plugins\fullscreen\plugin.js
+wwwroot\vendors\tinymce\plugins\fullscreen\plugin.min.js
+wwwroot\vendors\tinymce\plugins\help\index.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ar.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\bg_BG.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ca.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\cs.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\da.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\de.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\el.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\en.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\es.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\eu.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\fa.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\fi.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\fr_FR.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\he_IL.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\hi.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\hr.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\hu_HU.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\id.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\it.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ja.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\kk.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ko_KR.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ms.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\nb_NO.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\nl.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\pl.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\pt_BR.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\pt_PT.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ro.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ru.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\sk.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\sl_SI.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\sv_SE.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\th_TH.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\tr.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\uk.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\vi.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\zh_CN.js
+wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\zh_TW.js
+wwwroot\vendors\tinymce\plugins\help\plugin.js
+wwwroot\vendors\tinymce\plugins\help\plugin.min.js
+wwwroot\vendors\tinymce\plugins\image\index.js
+wwwroot\vendors\tinymce\plugins\image\plugin.js
+wwwroot\vendors\tinymce\plugins\image\plugin.min.js
+wwwroot\vendors\tinymce\plugins\importcss\index.js
+wwwroot\vendors\tinymce\plugins\importcss\plugin.js
+wwwroot\vendors\tinymce\plugins\importcss\plugin.min.js
+wwwroot\vendors\tinymce\plugins\insertdatetime\index.js
+wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.js
+wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.min.js
+wwwroot\vendors\tinymce\plugins\link\index.js
+wwwroot\vendors\tinymce\plugins\link\plugin.js
+wwwroot\vendors\tinymce\plugins\link\plugin.min.js
+wwwroot\vendors\tinymce\plugins\lists\index.js
+wwwroot\vendors\tinymce\plugins\lists\plugin.js
+wwwroot\vendors\tinymce\plugins\lists\plugin.min.js
+wwwroot\vendors\tinymce\plugins\media\index.js
+wwwroot\vendors\tinymce\plugins\media\plugin.js
+wwwroot\vendors\tinymce\plugins\media\plugin.min.js
+wwwroot\vendors\tinymce\plugins\nonbreaking\index.js
+wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.js
+wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.min.js
+wwwroot\vendors\tinymce\plugins\pagebreak\index.js
+wwwroot\vendors\tinymce\plugins\pagebreak\plugin.js
+wwwroot\vendors\tinymce\plugins\pagebreak\plugin.min.js
+wwwroot\vendors\tinymce\plugins\preview\index.js
+wwwroot\vendors\tinymce\plugins\preview\plugin.js
+wwwroot\vendors\tinymce\plugins\preview\plugin.min.js
+wwwroot\vendors\tinymce\plugins\quickbars\index.js
+wwwroot\vendors\tinymce\plugins\quickbars\plugin.js
+wwwroot\vendors\tinymce\plugins\quickbars\plugin.min.js
+wwwroot\vendors\tinymce\plugins\save\index.js
+wwwroot\vendors\tinymce\plugins\save\plugin.js
+wwwroot\vendors\tinymce\plugins\save\plugin.min.js
+wwwroot\vendors\tinymce\plugins\searchreplace\index.js
+wwwroot\vendors\tinymce\plugins\searchreplace\plugin.js
+wwwroot\vendors\tinymce\plugins\searchreplace\plugin.min.js
+wwwroot\vendors\tinymce\plugins\table\index.js
+wwwroot\vendors\tinymce\plugins\table\plugin.js
+wwwroot\vendors\tinymce\plugins\table\plugin.min.js
+wwwroot\vendors\tinymce\plugins\visualblocks\index.js
+wwwroot\vendors\tinymce\plugins\visualblocks\plugin.js
+wwwroot\vendors\tinymce\plugins\visualblocks\plugin.min.js
+wwwroot\vendors\tinymce\plugins\visualchars\index.js
+wwwroot\vendors\tinymce\plugins\visualchars\plugin.js
+wwwroot\vendors\tinymce\plugins\visualchars\plugin.min.js
+wwwroot\vendors\tinymce\plugins\wordcount\index.js
+wwwroot\vendors\tinymce\plugins\wordcount\plugin.js
+wwwroot\vendors\tinymce\plugins\wordcount\plugin.min.js
+wwwroot\vendors\tinymce\README.md
+wwwroot\vendors\tinymce\skins\content\dark\content.css
+wwwroot\vendors\tinymce\skins\content\dark\content.js
+wwwroot\vendors\tinymce\skins\content\dark\content.min.css
+wwwroot\vendors\tinymce\skins\content\default\content.css
+wwwroot\vendors\tinymce\skins\content\default\content.js
+wwwroot\vendors\tinymce\skins\content\default\content.min.css
+wwwroot\vendors\tinymce\skins\content\document\content.css
+wwwroot\vendors\tinymce\skins\content\document\content.js
+wwwroot\vendors\tinymce\skins\content\document\content.min.css
+wwwroot\vendors\tinymce\skins\content\tinymce-5-dark\content.css
+wwwroot\vendors\tinymce\skins\content\tinymce-5-dark\content.js
+wwwroot\vendors\tinymce\skins\content\tinymce-5-dark\content.min.css
+wwwroot\vendors\tinymce\skins\content\tinymce-5\content.css
+wwwroot\vendors\tinymce\skins\content\tinymce-5\content.js
+wwwroot\vendors\tinymce\skins\content\tinymce-5\content.min.css
+wwwroot\vendors\tinymce\skins\content\writer\content.css
+wwwroot\vendors\tinymce\skins\content\writer\content.js
+wwwroot\vendors\tinymce\skins\content\writer\content.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.js
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.js
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.js
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.css
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.js
+wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide\content.css
+wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.css
+wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.js
+wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide\content.js
+wwwroot\vendors\tinymce\skins\ui\oxide\content.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide\skin.css
+wwwroot\vendors\tinymce\skins\ui\oxide\skin.js
+wwwroot\vendors\tinymce\skins\ui\oxide\skin.min.css
+wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.css
+wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.js
+wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.min.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.inline.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.inline.js
+wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.inline.min.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.js
+wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.min.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.js
+wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.min.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.shadowdom.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.shadowdom.js
+wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.shadowdom.min.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.inline.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.inline.js
+wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.inline.min.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.js
+wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.min.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.js
+wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.min.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.shadowdom.css
+wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.shadowdom.js
+wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.shadowdom.min.css
+wwwroot\vendors\tinymce\themes\silver\index.js
+wwwroot\vendors\tinymce\themes\silver\theme.js
+wwwroot\vendors\tinymce\themes\silver\theme.min.js
+wwwroot\vendors\tinymce\tinymce.d.ts
+wwwroot\vendors\tinymce\tinymce.js
+wwwroot\vendors\tinymce\tinymce.min.js
+wwwroot\vendors\toastify-js\toastify.css
+wwwroot\vendors\toastify-js\toastify.js
+wwwroot\vendors\typed.js\typed.umd.js
+wwwroot\vendors\validator\validator.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\css\site.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\favicon.ico
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\js\site.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\jquery-validation\LICENSE.md
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\jquery\dist\jquery.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\jquery\dist\jquery.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\jquery\dist\jquery.min.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\lib\jquery\LICENSE.txt
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\theme-rtl.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\theme-rtl.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\theme-rtl.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\theme-rtl.min.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\theme.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\theme.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\theme.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\theme.min.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\user-rtl.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\user-rtl.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\user-rtl.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\user-rtl.min.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\user.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\user.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\user.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\css\user.min.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\data\usa.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\data\world.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\bm.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\bouncing-ball.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\celebration.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\check-primary-light.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\heart.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\infinite-loop.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\loading-animation.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\loading-balls.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\loading-circle-scale.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\loading-square.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\loading.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\shopping-list.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\sleeping-404.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\ss.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\star-feedback.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\animated-icons\warning-light.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\crm\call.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\crm\email.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\crm\other.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\crm\social.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\favicons\browserconfig.xml
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\favicons\favicon.ico
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\favicons\manifest.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\favicons\site.webmanifest
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\arrows-h.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\chevron-up.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\cloud-download-.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\cloud-download.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\cloud-upload.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\discount.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\double-chevron-up.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\edit-alt-.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\edit-alt.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\folder-open-solid.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\folder-solid.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\free.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\icon-angle-right.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\left-arrow-from-left.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\moon.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\networking.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\nineDots.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\paragraph.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\play.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\pro.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\sent.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\shield.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\spot-illustrations\1.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\spot-illustrations\2.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\spot-illustrations\3.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\spot-illustrations\4.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\spot-illustrations\5.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\spot-illustrations\6.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\spot-illustrations\calendar.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\spot-illustrations\editing.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\spot-illustrations\image.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\spot-illustrations\location.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\spot-illustrations\paper-plane.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\spot-illustrations\startup.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\star_on.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\sun.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\target.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\triple-chevron-up.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\user-plus.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\icons\users.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\illustrations\1.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\illustrations\2.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\illustrations\3.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\illustrations\4.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\illustrations\5.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\illustrations\6.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\illustrations\calendar.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\illustrations\editing.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\illustrations\image.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\illustrations\location.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\illustrations\paper-plane.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\img\illustrations\startup.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\js\config.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\js\config.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\js\echart-example.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\js\echart-example.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\js\echarts-example.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\js\echarts-example.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\js\flatpickr.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\js\theme.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\js\theme.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\js\theme.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\assets\js\theme.min.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\anchorjs\anchor.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\bootstrap\bootstrap.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\bootstrap\bootstrap.min.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\chart\chart.umd.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\choices\base.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\choices\choices.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\choices\choices.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\countup\countUp.umd.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\d3\d3.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\datatables.net-bs5\dataTables.bootstrap5.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\datatables.net-dt\jquery.dataTables.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\datatables.net-fixedcolumns\dataTables.fixedColumns.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\datatables.net\dataTables.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\dayjs\dayjs.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\draggable\draggable.bundle.legacy.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\dropzone\dropzone-min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\dropzone\dropzone.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\echarts-countries-js\map\USA.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\echarts-countries-js\map\world.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\echarts-countries-js\world\world.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\echarts\echarts.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\emoji-mart\browser.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\flatpickr\bn.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\flatpickr\flatpickr.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\flatpickr\flatpickr.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\fontawesome\all.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\fullcalendar\index.global.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\glightbox\glightbox.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\glightbox\glightbox.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\imask\imask.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\inputmask\inputmask.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\ion-rangeslider\ion.rangeSlider.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\ion-rangeslider\ion.rangeSlider.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\is\is.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\jquery\jquery.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\leaflet.markercluster\leaflet.markercluster.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\leaflet.markercluster\MarkerCluster.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\leaflet.markercluster\MarkerCluster.Default.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\leaflet.tilelayer.colorfilter\leaflet-tilelayer-colorfilter.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\leaflet\leaflet.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\leaflet\leaflet.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\leaflet\leaflet.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\list.js\list.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\list.js\list.min.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\lodash\lodash.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\lottie\lottie.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\nouislider\nouislider.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\nouislider\nouislider.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\overlayscrollbars\OverlayScrollbars.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\picmo\index.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\picmo\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\plyr\plyr.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\plyr\plyr.polyfilled.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\plyr\plyr.polyfilled.min.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\popper\popper.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\popper\popper.min.js.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\prism\prism-okaidia.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\prism\prism.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\rater-js\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\rater-js\rater-js.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\rater-js\star_0.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\rater-js\star_1.svg
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\rater-js\style.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\select2-bootstrap-5-theme\select2-bootstrap-5-theme.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\select2\select2.full.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\select2\select2.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\select2\select2.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\simplebar\simplebar.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\simplebar\simplebar.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\sortablejs\Sortable.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\swiper\swiper-bundle.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\swiper\swiper-bundle.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tiny-slider\tiny-slider.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tiny-slider\tiny-slider.css.map
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tiny-slider\tiny-slider.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\bower.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\CHANGELOG.md
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\composer.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\icons\default\icons.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\icons\default\icons.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\icons\default\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\license.md
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\models\dom\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\models\dom\model.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\models\dom\model.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\package.json
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\accordion\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\accordion\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\accordion\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\advlist\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\advlist\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\advlist\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\anchor\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\anchor\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\anchor\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\autolink\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\autolink\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\autolink\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\autoresize\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\autoresize\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\autoresize\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\autosave\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\autosave\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\autosave\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\charmap\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\charmap\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\charmap\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\codesample\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\codesample\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\codesample\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\code\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\code\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\code\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\directionality\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\directionality\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\directionality\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\emoticons\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\emoticons\js\emojiimages.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\emoticons\js\emojis.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\emoticons\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\emoticons\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\fullscreen\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\fullscreen\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\fullscreen\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ar.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\bg_BG.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ca.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\cs.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\da.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\de.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\el.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\en.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\es.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\eu.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\fa.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\fi.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\fr_FR.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\he_IL.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\hi.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\hr.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\hu_HU.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\id.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\it.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ja.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\kk.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ko_KR.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ms.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\nb_NO.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\nl.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\pl.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\pt_BR.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\pt_PT.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ro.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\ru.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\sk.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\sl_SI.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\sv_SE.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\th_TH.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\tr.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\uk.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\vi.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\zh_CN.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\js\i18n\keynav\zh_TW.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\help\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\image\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\image\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\image\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\importcss\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\importcss\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\importcss\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\insertdatetime\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\insertdatetime\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\link\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\link\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\link\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\lists\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\lists\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\lists\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\media\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\media\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\media\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\nonbreaking\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\nonbreaking\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\pagebreak\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\pagebreak\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\pagebreak\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\preview\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\preview\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\preview\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\quickbars\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\quickbars\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\quickbars\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\save\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\save\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\save\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\searchreplace\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\searchreplace\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\searchreplace\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\table\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\table\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\table\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\visualblocks\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\visualblocks\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\visualblocks\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\visualchars\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\visualchars\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\visualchars\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\wordcount\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\wordcount\plugin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\plugins\wordcount\plugin.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\README.md
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\dark\content.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\dark\content.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\dark\content.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\default\content.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\default\content.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\default\content.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\document\content.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\document\content.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\document\content.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\tinymce-5-dark\content.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\tinymce-5-dark\content.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\tinymce-5-dark\content.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\tinymce-5\content.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\tinymce-5\content.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\tinymce-5\content.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\writer\content.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\writer\content.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\content\writer\content.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.inline.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide-dark\content.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide-dark\skin.shadowdom.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide\content.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide\content.inline.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide\content.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide\content.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide\skin.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide\skin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide\skin.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\oxide\skin.shadowdom.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.inline.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.inline.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.inline.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\content.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.shadowdom.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.shadowdom.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5-dark\skin.shadowdom.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.inline.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.inline.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.inline.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5\content.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.shadowdom.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.shadowdom.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\skins\ui\tinymce-5\skin.shadowdom.min.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\themes\silver\index.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\themes\silver\theme.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\themes\silver\theme.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\tinymce.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\tinymce\tinymce.min.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\toastify-js\toastify.css
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\toastify-js\toastify.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\typed.js\typed.umd.js
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\wwwroot\vendors\validator\validator.min.js

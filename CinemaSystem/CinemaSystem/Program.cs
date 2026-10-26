@@ -26,8 +26,8 @@ namespace CinemaSystem
 
             app.MapStaticAssets();
             app.MapControllerRoute(
-                name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}")
+                name: "areas",
+                pattern: "{area=Start}/{controller=Home}/{action=Index}/{Id?}")
                 .WithStaticAssets();
 
             app.Run();
