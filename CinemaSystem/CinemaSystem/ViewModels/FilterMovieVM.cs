@@ -8,5 +8,8 @@
         public bool ?Status { get; set; }
         public decimal Price { get; set; }
         public int Page { get; set; } = 1;
+        public IEnumerable<Category> Categories { get; set; }
+        public IEnumerable<Cinema> Cinemas { get; set; }
+        public IEnumerable<Movie> Movies { get; set; }
     }
 }

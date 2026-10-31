@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6sFOzA4zPoc=",
+  "dgSpecHash": "vlaFtE7tZBA=",
   "success": true,
   "projectFilePath": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\CinemaSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Repair\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\Repair\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",
     "C:\\Users\\Repair\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Repair\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\10.0.13\\microsoft.aspnetcore.identity.entityframeworkcore.10.0.13.nupkg.sha512",
     "C:\\Users\\Repair\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\Repair\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
     "C:\\Users\\Repair\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.11.0\\microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",

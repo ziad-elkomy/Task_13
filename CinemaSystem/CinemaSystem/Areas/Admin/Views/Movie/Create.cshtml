@@ -1,9 +1,4 @@
-﻿@using CinemaSystem.Data
-@using CinemaSystem.Models
-@{
-	ApplicationDbContext _context = new ApplicationDbContext();
-	var Actors = _context.Actors.ToList();
-}
+﻿@model MovieVM
 <form method="post" enctype="multipart/form-data">
 	<div class="card mb-3">
 		<div class="card-body">
@@ -71,16 +66,18 @@
 						</div>
 						<div class="col-12 mb-3">
 							<label class="form-label" for="MainImageFile">MainImage File:</label>
-							<input class="form-control" name="MainImageFile" type="file" accept="image/*">
+							<input class="form-control" id="imageInputind" name="MainImageFile" type="file" accept="image/*">
+							<div class="image-preview-container" id="previewContainerind"></div>
 						</div>
 						<div class="col-12 mb-3">
 							<label class="form-label" for="SubImageFiles">SubImage Files:</label>
-							<input class="form-control" name="SubImageFiles" type="file" accept="image/*" multiple>
+							<input class="form-control" id="imageInputmulti" name="SubImageFiles" type="file" accept="image/*" multiple>
+							<div class="image-preview-container" id="previewContainermulti"></div>
 						</div>
 						<div class="col-12 mb-3">
-							<label class="form-label" for="ActorsId">Actors:</label>
-							<select multiple class="stylish-multi-select" name="ActorsId">
-								@foreach (var item in Actors)
+							<label class="form-label" for="MovieActors">Actors:</label>
+							<select multiple class="stylish-multi-select" name="MovieActorsIds">
+								@foreach (var item in Model.Actors)
 								{
 									<option value="@item.Id">@item.Name</option>
 								}
@@ -108,3 +105,71 @@
 	</div>
 </form>
 
+<script>
+	const imageInput = document.getElementById('imageInputmulti');
+	const previewContainer = document.getElementById('previewContainermulti');
+
+	imageInput.addEventListener('change', function (event) {
+		const files = event.target.files;
+		previewContainer?.replaceChildren();
+		// لو اليوزر اختار صور، بنلف عليهم واحدة بواحدة
+		for (let i = 0; i < files.length; i++) {
+			const file = files[i];
+
+			// نتأكد إن الملف صورة فعلاً
+			if (!file.type.startsWith('image/')) continue;
+
+			const reader = new FileReader();
+
+			reader.onload = function (e) {
+				// إنشاء عنصر div لكل صورة
+				const card = document.createElement('div');
+				card.className = 'image-card';
+
+				// إنشاء عنصر img
+				const img = document.createElement('img');
+				img.src = e.target.result;
+
+				// تجميع العناصر وإضافتها للصفحة
+				card.appendChild(img);
+				previewContainer.appendChild(card);
+			}
+
+			// قراءة الصورة كـ Data URL
+			reader.readAsDataURL(file);
+		}
+	});
+</script>
+
+<script>
+	const imageInputind = document.getElementById('imageInputind');
+	const imagePreview = document.getElementById('previewContainerind');
+
+	imageInputind.addEventListener('change', function (event) {
+		// بنجيب أول ملف اختاره المستخدم
+		const file = event.target.files[0];
+
+		if (file) {
+			imagePreview.replaceChildren();
+			// بنستخدم FileReader عشان نقرأ الملف
+			const reader = new FileReader();
+
+			reader.onload = function (e) {
+				// إنشاء عنصر div لكل صورة
+				const card = document.createElement('div');
+				card.className = 'image-card';
+
+				// إنشاء عنصر img
+				const img = document.createElement('img');
+				img.src = e.target.result;
+
+				// تجميع العناصر وإضافتها للصفحة
+				card.appendChild(img);
+				imagePreview.appendChild(card);
+			}
+
+			// قراءة الملف كـ Data URL
+			reader.readAsDataURL(file);
+		}
+	});
+</script>

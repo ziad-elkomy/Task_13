@@ -1,3 +1,7 @@
+using CinemaSystem.Data;
+using CinemaSystem.Repositories;
+using Microsoft.EntityFrameworkCore;
+
 namespace CinemaSystem
 {
     public class Program
@@ -8,7 +12,23 @@ namespace CinemaSystem
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddControllersWithViews();
+            var connectionString =
+    builder.Configuration.GetConnectionString("DefaultConnection")
+        ?? throw new InvalidOperationException("Connection string"
+        + "'DefaultConnection' not found.");
 
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            {
+                options.UseSqlServer(connectionString);
+            });
+
+            builder.Services.AddScoped<IRepository<Category>, Repository<Category>>();
+            builder.Services.AddScoped<IRepository<Cinema>, Repository<Cinema>>();
+            builder.Services.AddScoped<IRepository<Movie>, Repository<Movie>>();
+            builder.Services.AddScoped<IRepository<Actor>, Repository<Actor>>();
+            builder.Services.AddScoped<IMovieSubImageRepository, MovieSubImageRepository>();
+            builder.Services.AddScoped<IMovieActorRepository, MovieActorRepository>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

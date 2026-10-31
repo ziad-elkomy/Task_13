@@ -13,11 +13,17 @@ namespace CinemaSystem.ViewModels
         public bool Status { get; set; }
         public decimal Price { get; set; }
         public DateTime DateTime { get; set; }
-        public string MainImg { get; set; }
         public IFormFile MainImageFile { get; set; }
+        public string MainImg { get; set; }
         public List<IFormFile> SubImageFiles { get; set; }
+        public IEnumerable<MovieSubImage> SubImages { get; set; }
         public int CategoryId { get; set; }
         public int CinemaId { get; set; }
-        public List<int> ActorsId { get; set; }
+        public IEnumerable<Movie> Movies { get; set; }
+        public IEnumerable<Category> Categories { get; set; }
+        public IEnumerable<Cinema> Cinemas { get; set; }
+        public IEnumerable<Actor> Actors { get; set; }
+        public IEnumerable<MovieActor> MovieActors { get; set; }
+        public IEnumerable<int> MovieActorsIds { get; set; }
     }
 }

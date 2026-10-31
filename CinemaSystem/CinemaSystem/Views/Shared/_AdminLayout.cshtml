@@ -85,6 +85,37 @@
 				userLinkRTL.setAttribute('disabled', true);
 			}
 	</script>
+	<style>
+			body {
+				font-family: Tahoma, sans-serif;
+				margin: 30px;
+			}
+
+			/* حاوية الصور اللي بتدعم النزول لسطر جديد تلقائياً */
+			.image-preview-container {
+				display: flex;
+				flex-wrap: wrap; /* السر في نزول الصور لسطر جديد لو المساحة خلصت */
+				gap: 15px; /* مسافة بين الصور وبعضها */
+				margin-top: 20px;
+			}
+
+			/* شكل كل صورة بالصندوق بتاعها */
+			.image-card {
+				width: 120px;
+				height: 120px;
+				border-radius: 8px;
+				overflow: hidden;
+				box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+				border: 1px solid #ddd;
+				background: #f9f9f9;
+			}
+
+				.image-card img {
+					width: 100%;
+					height: 100%;
+					object-fit: cover; /* عشان الصورة تملى المربع من غير ما تتشوه */
+				}
+	</style>
 </head>
 
 

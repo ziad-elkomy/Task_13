@@ -1,13 +1,6 @@
 ﻿@using CinemaSystem.Data
 @using CinemaSystem.Models
-@model Movie
-@{
-	ApplicationDbContext _context = new ApplicationDbContext();
-	var Actors = _context.Actors.ToList();
-	var categories = _context.Categories.ToList();
-	var cinemas = _context.Cinemas.ToList();
-	var movieactors = _context.MovieActors.Where(m => m.MovieId == Model.Id).ToList();
-}
+@model MovieVM
 <form method="post" enctype="multipart/form-data">
 	<div class="card mb-3">
 		<div class="card-body">
@@ -68,7 +61,7 @@
 						<div class="col-12 mb-3">
 							<label class="form-label" for="CategoryId">Category: </label>
 							<select class="form-select" name="CategoryId">
-								@foreach (var item in categories)
+								@foreach (var item in Model.Categories)
 								{
 									if (item.Id == Model.CategoryId)
 									{
@@ -85,7 +78,7 @@
 						<div class="col-12 mb-3">
 							<label class="form-label" for="CinemaId">Cinema: </label>
 							<select class="form-select" name="CinemaId">
-								@foreach (var item in cinemas)
+								@foreach (var item in Model.Cinemas)
 								{
 									if (item.Id == Model.CinemaId)
 									{
@@ -101,16 +94,32 @@
 						</div>
 						<div class="col-12 mb-3">
 							<label class="form-label" for="MainImageFile">MainImage File:</label>
-							<input class="form-control" name="MainImageFile" type="file" accept="image/*">
+							<input class="form-control" id="imageInputind" name="MainImageFile" type="file" accept="image/*">
+							<div class="image-preview-container" id="previewContainerind">
+								<div class="image-card">
+									<img src="~/Img/Admin/Movie/@Model.MainImg" alt="Image Preview" style="max-width: 200px;">
+								</div>
+							</div>
 						</div>
 						<div class="col-12 mb-3">
 							<label class="form-label" for="SubImageFiles">SubImage Files:</label>
-							<input class="form-control" name="SubImageFiles" type="file" accept="image/*" multiple>
+							<input class="form-control" id="imageInputmulti" name="SubImageFiles" type="file" accept="image/*" multiple>
+							<div class="image-preview-container" id="previewContainermulti">
+								@foreach (var item in Model.SubImages)
+								{
+									<div class="image-card">
+										<img src="~/Img/Admin/Movie/@item.SubImage" alt="Image Preview" style="max-width: 200px;">
+									</div>
+								}
+							</div>
 						</div>
 						<div class="col-12 mb-3">
-							<label class="form-label" for="ActorsId">Actors:</label>
-							<select multiple class="stylish-multi-select" name="ActorsId">
-								@foreach (var item in Actors)
+							<label class="form-label" for="MovieActors">Actors:</label>
+							<select multiple class="stylish-multi-select" name="MovieActors">
+								@{
+										var movieactors = Model.MovieActors.ToList();
+								}
+								@foreach (var item in Model.Actors)
 								{
 									if (movieactors.Exists(m => m.ActorId == item.Id))
 									{
@@ -146,3 +155,71 @@
 	</div>
 </form>
 
+<script>
+	const imageInput = document.getElementById('imageInputmulti');
+	const previewContainer = document.getElementById('previewContainermulti');
+
+	imageInput.addEventListener('change', function (event) {
+		const files = event.target.files;
+		previewContainer?.replaceChildren();
+		// لو اليوزر اختار صور، بنلف عليهم واحدة بواحدة
+		for (let i = 0; i < files.length; i++) {
+			const file = files[i];
+
+			// نتأكد إن الملف صورة فعلاً
+			if (!file.type.startsWith('image/')) continue;
+
+			const reader = new FileReader();
+
+			reader.onload = function (e) {
+				// إنشاء عنصر div لكل صورة
+				const card = document.createElement('div');
+				card.className = 'image-card';
+
+				// إنشاء عنصر img
+				const img = document.createElement('img');
+				img.src = e.target.result;
+
+				// تجميع العناصر وإضافتها للصفحة
+				card.appendChild(img);
+				previewContainer.appendChild(card);
+			}
+
+			// قراءة الصورة كـ Data URL
+			reader.readAsDataURL(file);
+		}
+	});
+</script>
+
+<script>
+	const imageInputind = document.getElementById('imageInputind');
+	const imagePreview = document.getElementById('previewContainerind');
+
+	imageInputind.addEventListener('change', function (event) {
+		// بنجيب أول ملف اختاره المستخدم
+		const file = event.target.files[0];
+
+		if (file) {
+			imagePreview.replaceChildren();
+			// بنستخدم FileReader عشان نقرأ الملف
+			const reader = new FileReader();
+
+			reader.onload = function (e) {
+				// إنشاء عنصر div لكل صورة
+				const card = document.createElement('div');
+				card.className = 'image-card';
+
+				// إنشاء عنصر img
+				const img = document.createElement('img');
+				img.src = e.target.result;
+
+				// تجميع العناصر وإضافتها للصفحة
+				card.appendChild(img);
+				imagePreview.appendChild(card);
+			}
+
+			// قراءة الملف كـ Data URL
+			reader.readAsDataURL(file);
+		}
+	});
+</script>

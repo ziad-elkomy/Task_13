@@ -631,3 +631,4 @@ D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\obj
 D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\obj\Debug\net10.0\compressed\1sox7026b0-{0}-mn3rex2m91-mn3rex2m91.gz
 D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\obj\Debug\net10.0\compressed\qq328mgqs1-{0}-sn86lzzga5-sn86lzzga5.gz
 D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\obj\Debug\net10.0\compressed\p0d0sfi4ev-{0}-3rfncn7613-3rfncn7613.gz
+D:\self_study\Back_end\100- EraaSoft\Tasks\Task_13\CinemaSystem\CinemaSystem\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

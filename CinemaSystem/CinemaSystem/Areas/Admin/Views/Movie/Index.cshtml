@@ -1,4 +1,4 @@
-﻿@model MovieIndexVM
+﻿@model FilterMovieVM
 <div class="card mb-3">
 	<div class="card-body">
 		<div class="row d-flex">
@@ -13,9 +13,9 @@
 								<small>Status: </small>
 								<select class="form-select form-select-sm" aria-label="Bulk actions" name="Status">
 									<option value="null"></option>
-									@if (Model.filter.Status != null)
+									@if (Model.Status != null)
 									{
-										@if (Model.filter.Status == true)
+										@if (Model.Status == true)
 										{
 											<option value="true" selected>Available</option>
 											<option value="false">UnAvailable</option>
@@ -42,7 +42,7 @@
 									<option value=""></option>
 									@foreach (var item in Model.Cinemas)
 									{
-										if (item.Id == Model.filter.CinemaId)
+										if (item.Id == Model.CinemaId)
 										{
 											<option value="@item.Id" selected>@item.Name</option>
 										}
@@ -59,7 +59,7 @@
 									<option value=""></option>
 									@foreach (var item in Model.Categories)
 									{
-										if (item.Id == Model.filter.CategoryId)
+										if (item.Id == Model.CategoryId)
 										{
 											<option value="@item.Id" selected>@item.Name</option>
 										}
@@ -73,11 +73,11 @@
 							</div>
 							<div class="col-auto">
 								<small>Before DateTime: </small>
-								<input type="datetime-local" class="form-control form-control-sm" name="DT" value="@Model.filter.DT.ToString("yyyy-MM-ddTHH:mm")" />
+								<input type="datetime-local" class="form-control form-control-sm" name="DT" value="@Model.DT.ToString("yyyy-MM-ddTHH:mm")" />
 							</div>
 							<div class="col-auto">
 								<small>Max Price: </small>
-								<input type="number" class="form-control form-control-sm" name="Price" value="@Model.filter.Price"/>
+								<input type="number" class="form-control form-control-sm" name="Price" value="@Model.Price"/>
 							</div>
 							<div class="col-auto">
 								<button class="btn btn-primary btn-sm my-4" type="submit">Filter</button>

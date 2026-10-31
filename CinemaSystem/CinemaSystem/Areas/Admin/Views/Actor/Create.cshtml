@@ -33,7 +33,8 @@
 						</div>
 						<div class="col-12 mb-3">
 							<label class="form-label" for="ImageFile">ImageFile:</label>
-							<input class="form-control" name="ImageFile" type="file" accept="image/*">
+							<input class="form-control" id="imageInputind" name="ImageFile" type="file" accept="image/*">
+							<div class="image-preview-container" id="previewContainerind"></div>
 						</div>
 					</div>
 
@@ -55,3 +56,35 @@
 		</div>
 	</div>
 </form>
+<script>
+	const imageInputind = document.getElementById('imageInputind');
+	const imagePreview = document.getElementById('previewContainerind');
+
+	imageInputind.addEventListener('change', function (event) {
+		// بنجيب أول ملف اختاره المستخدم
+		const file = event.target.files[0];
+
+		if (file) {
+			imagePreview.replaceChildren();
+			// بنستخدم FileReader عشان نقرأ الملف
+			const reader = new FileReader();
+
+			reader.onload = function (e) {
+				// إنشاء عنصر div لكل صورة
+				const card = document.createElement('div');
+				card.className = 'image-card';
+
+				// إنشاء عنصر img
+				const img = document.createElement('img');
+				img.src = e.target.result;
+
+				// تجميع العناصر وإضافتها للصفحة
+				card.appendChild(img);
+				imagePreview.appendChild(card);
+			}
+
+			// قراءة الملف كـ Data URL
+			reader.readAsDataURL(file);
+		}
+	});
+</script>
