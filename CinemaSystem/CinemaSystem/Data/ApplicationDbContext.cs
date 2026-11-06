@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CinemaSystem.Data
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         protected ApplicationDbContext()
         {
@@ -18,6 +18,7 @@ namespace CinemaSystem.Data
         public DbSet<Movie> Movies { get; set; }
         public DbSet<MovieActor> MovieActors { get; set; }
         public DbSet<MovieSubImage> MovieSubImages { get; set; }
+        public DbSet<UserOTPS> UserOTPS { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

@@ -103,16 +103,44 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Areas/Start/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhcnRcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Areas/Identity/Views/Account/EmailSending.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudFxFbWFpbFNlbmRpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Areas/Start/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhcnRcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Areas/Identity/Views/Account/EnterOTP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudFxFbnRlck9UUC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Areas/Start/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RhcnRcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Areas/Identity/Views/Account/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Areas/Identity/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Areas/Identity/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Areas/Identity/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Areas/Identity/Views/Account/ResendEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudFxSZXNlbmRFbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Areas/Identity/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Areas/Identity/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Areas/Identity/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Views/Shared/Error.cshtml]
@@ -125,6 +153,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Views/Shared/_CustomerLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DdXN0b21lckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Views/Shared/_NotificationPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/self_study/Back_end/100- EraaSoft/Tasks/Task_13/CinemaSystem/CinemaSystem/Views/Shared/_ValidationScriptsPartial.cshtml]

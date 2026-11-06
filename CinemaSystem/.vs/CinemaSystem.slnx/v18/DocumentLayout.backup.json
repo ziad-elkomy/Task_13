@@ -3,92 +3,28 @@
   "WorkspaceRootPath": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\admin\\views\\cinema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\admin\\views\\cinema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\identity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\identity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\admin\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\admin\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\identity\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\identity\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\identity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\identity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\admin\\views\\actor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\admin\\views\\actor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\identity\\views\\account\\emailsending.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\identity\\views\\account\\emailsending.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\admin\\views\\cinema\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\admin\\views\\cinema\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\identity\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\identity\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\admin\\views\\cinema\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\admin\\views\\cinema\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\admin\\views\\actor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\admin\\views\\actor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\admin\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\admin\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\admin\\views\\movie\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\admin\\views\\movie\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\admin\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\admin\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\admin\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\admin\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\admin\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\admin\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\viewmodels\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\viewmodels\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\migrations\\20261030192451_adding_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\migrations\\20261030192451_adding_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\migrations\\20261025115714_modify_col_name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\migrations\\20261025115714_modify_col_name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\repositories\\movieactorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\repositories\\movieactorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\viewmodels\\filtermovievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\viewmodels\\filtermovievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_13\\cinemasystem\\cinemasystem\\areas\\identity\\views\\account\\enterotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1BAD8FE-C0FA-288F-162D-38FB0F821D94}|CinemaSystem\\CinemaSystem.csproj|solutionrelative:cinemasystem\\areas\\identity\\views\\account\\enterotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,97 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Cinema\\Index.cshtml",
-              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Admin\\Views\\Cinema\\Index.cshtml",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Cinema\\Index.cshtml",
-              "RelativeToolTip": "CinemaSystem\\Areas\\Admin\\Views\\Cinema\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T18:15:49.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Actor\\Update.cshtml",
-              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Admin\\Views\\Actor\\Update.cshtml",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Actor\\Update.cshtml",
-              "RelativeToolTip": "CinemaSystem\\Areas\\Admin\\Views\\Actor\\Update.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T18:11:11.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Actor\\Create.cshtml",
-              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Admin\\Views\\Actor\\Create.cshtml",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Actor\\Create.cshtml",
-              "RelativeToolTip": "CinemaSystem\\Areas\\Admin\\Views\\Actor\\Create.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAFkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T18:10:24.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ActorController.cs",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Controllers\\ActorController.cs",
-              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Admin\\Controllers\\ActorController.cs",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Controllers\\ActorController.cs",
-              "RelativeToolTip": "CinemaSystem\\Areas\\Admin\\Controllers\\ActorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T18:10:14.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Cinema\\Update.cshtml",
-              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Admin\\Views\\Cinema\\Update.cshtml",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Cinema\\Update.cshtml",
-              "RelativeToolTip": "CinemaSystem\\Areas\\Admin\\Views\\Cinema\\Update.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAcwDcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T18:08:58.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Cinema\\Create.cshtml",
-              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Admin\\Views\\Cinema\\Create.cshtml",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Cinema\\Create.cshtml",
-              "RelativeToolTip": "CinemaSystem\\Areas\\Admin\\Views\\Cinema\\Create.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T18:07:40.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CinemaController.cs",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Controllers\\CinemaController.cs",
-              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Admin\\Controllers\\CinemaController.cs",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Controllers\\CinemaController.cs",
-              "RelativeToolTip": "CinemaSystem\\Areas\\Admin\\Controllers\\CinemaController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T18:07:33.497Z",
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Identity\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Identity\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Identity\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "CinemaSystem\\Areas\\Identity\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-06T14:38:59.525Z",
               "EditorCaption": ""
             },
             {
@@ -201,197 +59,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnterOTP.cshtml",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Identity\\Views\\Account\\EnterOTP.cshtml",
+              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Identity\\Views\\Account\\EnterOTP.cshtml",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Identity\\Views\\Account\\EnterOTP.cshtml",
+              "RelativeToolTip": "CinemaSystem\\Areas\\Identity\\Views\\Account\\EnterOTP.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-06T14:26:57.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Identity\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Identity\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Identity\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "CinemaSystem\\Areas\\Identity\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-06T14:22:26.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailSending.cshtml",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Identity\\Views\\Account\\EmailSending.cshtml",
+              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Identity\\Views\\Account\\EmailSending.cshtml",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Identity\\Views\\Account\\EmailSending.cshtml",
+              "RelativeToolTip": "CinemaSystem\\Areas\\Identity\\Views\\Account\\EmailSending.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-06T14:22:18.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "CinemaSystem\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "CinemaSystem\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAANwAAAAAAAAAAAAowAIBAAAyAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Identity\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Identity\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Identity\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CinemaSystem\\Areas\\Identity\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T17:45:26.902Z",
+              "WhenOpened": "2026-11-06T14:20:56.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "CinemaSystem\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Identity\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Identity\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Identity\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CinemaSystem\\Areas\\Identity\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:07:39.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Movie\\Update.cshtml",
-              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Admin\\Views\\Movie\\Update.cshtml",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Movie\\Update.cshtml",
-              "RelativeToolTip": "CinemaSystem\\Areas\\Admin\\Views\\Movie\\Update.cshtml",
-              "ViewState": "AgIAANwAAAAAAAAAAAAAAOAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T11:58:55.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MovieController.cs",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Controllers\\MovieController.cs",
-              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Admin\\Controllers\\MovieController.cs",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Controllers\\MovieController.cs",
-              "RelativeToolTip": "CinemaSystem\\Areas\\Admin\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAAA0BAAAAAAAAAAAmwB4BAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T11:57:37.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
-              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
-              "RelativeToolTip": "CinemaSystem\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T11:58:38.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MovieVM.cs",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\ViewModels\\MovieVM.cs",
-              "RelativeDocumentMoniker": "CinemaSystem\\ViewModels\\MovieVM.cs",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\ViewModels\\MovieVM.cs",
-              "RelativeToolTip": "CinemaSystem\\ViewModels\\MovieVM.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA2wBoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T12:04:17.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Movie\\Index.cshtml",
-              "RelativeDocumentMoniker": "CinemaSystem\\Areas\\Admin\\Views\\Movie\\Index.cshtml",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Areas\\Admin\\Views\\Movie\\Index.cshtml",
-              "RelativeToolTip": "CinemaSystem\\Areas\\Admin\\Views\\Movie\\Index.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T12:40:32.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "CinemaSystem\\Repositories\\Repository.cs",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Repositories\\Repository.cs",
-              "RelativeToolTip": "CinemaSystem\\Repositories\\Repository.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAArwDoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T14:57:00.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20261030192451_adding_identity.cs",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Migrations\\20261030192451_adding_identity.cs",
-              "RelativeDocumentMoniker": "CinemaSystem\\Migrations\\20261030192451_adding_identity.cs",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Migrations\\20261030192451_adding_identity.cs",
-              "RelativeToolTip": "CinemaSystem\\Migrations\\20261030192451_adding_identity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:19:57.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20261025115714_modify_col_name.cs",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Migrations\\20261025115714_modify_col_name.cs",
-              "RelativeDocumentMoniker": "CinemaSystem\\Migrations\\20261025115714_modify_col_name.cs",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Migrations\\20261025115714_modify_col_name.cs",
-              "RelativeToolTip": "CinemaSystem\\Migrations\\20261025115714_modify_col_name.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:20:01.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "CinemaSystem\\Models\\Movie.cs",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Models\\Movie.cs",
-              "RelativeToolTip": "CinemaSystem\\Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:22:11.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MovieActorRepository.cs",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Repositories\\MovieActorRepository.cs",
-              "RelativeDocumentMoniker": "CinemaSystem\\Repositories\\MovieActorRepository.cs",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Repositories\\MovieActorRepository.cs",
-              "RelativeToolTip": "CinemaSystem\\Repositories\\MovieActorRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T15:18:47.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Program.cs",
-              "RelativeDocumentMoniker": "CinemaSystem\\Program.cs",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Program.cs",
-              "RelativeToolTip": "CinemaSystem\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwBwAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T15:50:48.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "CinemaSystem\\Repositories\\IRepository.cs",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "CinemaSystem\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T14:57:02.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FilterMovieVM.cs",
-              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\ViewModels\\FilterMovieVM.cs",
-              "RelativeDocumentMoniker": "CinemaSystem\\ViewModels\\FilterMovieVM.cs",
-              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_13\\CinemaSystem\\CinemaSystem\\ViewModels\\FilterMovieVM.cs",
-              "RelativeToolTip": "CinemaSystem\\ViewModels\\FilterMovieVM.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T12:40:30.445Z",
+              "WhenOpened": "2026-11-06T14:20:41.179Z",
               "EditorCaption": ""
             }
           ]

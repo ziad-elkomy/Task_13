@@ -1,5 +1,8 @@
 using CinemaSystem.Data;
 using CinemaSystem.Repositories;
+using CinemaSystem.Utilities;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
 
 namespace CinemaSystem
@@ -23,12 +26,20 @@ namespace CinemaSystem
                 options.UseSqlServer(connectionString);
             });
 
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
+            {
+                options.User.RequireUniqueEmail = true;
+                options.SignIn.RequireConfirmedAccount = true;
+            }).AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
+
             builder.Services.AddScoped<IRepository<Category>, Repository<Category>>();
             builder.Services.AddScoped<IRepository<Cinema>, Repository<Cinema>>();
             builder.Services.AddScoped<IRepository<Movie>, Repository<Movie>>();
             builder.Services.AddScoped<IRepository<Actor>, Repository<Actor>>();
             builder.Services.AddScoped<IMovieSubImageRepository, MovieSubImageRepository>();
             builder.Services.AddScoped<IMovieActorRepository, MovieActorRepository>();
+            builder.Services.AddScoped<IRepository<UserOTPS>, Repository<UserOTPS>>();
+            builder.Services.AddTransient<IEmailSender, EmailSender>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -47,7 +58,7 @@ namespace CinemaSystem
             app.MapStaticAssets();
             app.MapControllerRoute(
                 name: "areas",
-                pattern: "{area=Start}/{controller=Home}/{action=Index}/{Id?}")
+                pattern: "{area=Identity}/{controller=Account}/{action=Index}/{Id?}")
                 .WithStaticAssets();
 
             app.Run();
