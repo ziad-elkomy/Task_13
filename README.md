@@ -1,1 +1,1 @@
- التاسك 14 هي يعتبر Solid_Principles_Update Commit + SearchTask (Liskov substitution principle)
+ التاسك 15 يعتبر commit identity taks كل الحاجات الخاصة بال identity بس ملحوطة معمولة على customer فقط
